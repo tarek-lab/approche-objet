@@ -43,4 +43,10 @@ public class Personne {
 	public String recuperernom (){
 		return nom;
 	}
+	public String recupererprenom (){
+		return prenom;
+	}
+	public AdressePostale recupereradresse (){
+		return adresse;
+	}
 }
