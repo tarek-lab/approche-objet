@@ -6,6 +6,7 @@ public class AdressePostale {
 	public String libelledelaRue;
 	public int codePostale;
 	public String ville;
+
 	
 	public AdressePostale (int numerodeRue,String libelledelaRue,int codePostale,String ville){
 		this.numerodeRue = numerodeRue;
@@ -15,6 +16,5 @@ public class AdressePostale {
 		
 		
 	}
-	
 	
 }
